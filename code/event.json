@@ -1,0 +1,19 @@
+{
+  "angry_01-02-05-02-02-02-01": [
+    {"time_s": 3.60, "label": "calming down"}
+  ],
+  "happy_02-02-03-01-01-02-01": [
+    {"time_s": 0.63, "label": "toothy smile deepens"},
+    {"time_s": 3.55, "label": "smile slightly relaxes"}
+  ],
+  "fearful_01-02-06-02-02-02-01": [
+    { "time_s": 0.23, "label": "brief hesitation" },
+    { "time_s": 0.40, "label": "fear expression sharply intensifies" },
+    { "time_s": 3.67, "label": "fear eases and facial tension reduces" }
+  ],
+  "sad_01-02-04-02-02-02-01": [
+    { "time_s": 1.13, "label": "sad expression intensifies" },
+    { "time_s": 1.54, "label": "brief relaxation and reset" },
+    { "time_s": 3.24, "label": "secondary emphasis of sadness" }
+  ]
+}
